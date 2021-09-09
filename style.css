@@ -1,0 +1,75 @@
+body{
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(powderblue,blue,darkblue,#217367 );
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	margin:0px; 
+  	padding:0px;
+}
+h1{
+	color: lightgreen;
+}
+h2{
+	color: white;
+}
+label{
+	color: white;
+}
+p{
+	color: white;
+}
+footer{
+	background-color: black;
+	width: 100%;
+	height:100px;
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	background-color: black;
+	width: 100%;
+	height:100px;
+	margin: 0px;
+	padding: 0px;
+}
+#logodiv{
+	text-align: center;
+}
+#logo{
+	width:250px; 
+	height:100px;
+}
+#galeria{
+	width: 50px;
+	height: 50px;
+}
+#videodiv{
+	margin: 158px;
+}
+#galeriadiv{
+	text-align: center;
+}
+#bando{
+	text-align: right;
+}
+#logoform{
+	width:500px;
+	height:400px;
+}
+#input ul{
+
+}
+#corpo{
+	text-align: center;
+}
+.rodape{
+	text-align: center;
+
+}
+.galeria{
+	display: inline-grid;
+	width: 800px;
+	height: 600px;
+}
